@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
